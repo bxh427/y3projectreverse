@@ -1,4 +1,4 @@
-set terminal latex
+set terminal epslatex
 set output "StadTrag.tex"
 set format xy "$%g"
 set xlabel "$x$"

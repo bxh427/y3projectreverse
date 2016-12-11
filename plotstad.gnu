@@ -1,8 +1,8 @@
 set terminal epslatex
 set output "StadTrag.tex"
-set format xy "$%g"
-set xlabel "$x$"
-set ylabel "$y$"
+#set format xy "$%g"
+#set xlabel "$x$"
+#set ylabel "$y$"
 set parametric
 a = 1
 b = 2
